@@ -2,7 +2,6 @@
 
 # 🎓 CED Doctoral Process Management – Laravel Web App
 
-
 This project is a Laravel-based web application developed to manage the doctoral process lifecycle for the **Centre des Études Doctorales (C.E.D.)** at the Université Cadi Ayyad, Marrakech.
 
 It offers an intuitive interface and a robust backend system for handling user registration, research structures, application forms, and doctoral student records.
@@ -16,6 +15,7 @@ It offers an intuitive interface and a robust backend system for handling user r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Screenshots](#️screenshots)
 - [Author](#author)
 - [License](#license)
 
@@ -65,5 +65,6 @@ php artisan migrate
 
 # 6. Launch the dev server
 php artisan serve
+
 
 
