@@ -2,16 +2,16 @@
 
 # 🎓 CED Doctoral Process Management – Laravel Web App
 
+
 This project is a Laravel-based web application developed to manage the doctoral process lifecycle for the **Centre des Études Doctorales (C.E.D.)** at the Université Cadi Ayyad, Marrakech.
 
-It offers an intuitive interface and robust backend system for handling user registration, research structures, application forms, and doctoral student records.
+It offers an intuitive interface and a robust backend system for handling user registration, research structures, application forms, and doctoral student records.
 
 ---
 
 ## 📌 Table of Contents
 
-- [Features](#features)
-- [Screenshots](#screenshots)
+- [Features](#️features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -30,15 +30,16 @@ It offers an intuitive interface and robust backend system for handling user reg
 - 🔐 **Secure Authentication** (Laravel Auth / Sanctum)
 - 🗃️ **Database Integration** (PostgreSQL or MySQL)
 - 🧾 **Admin Dashboard** for record monitoring
-  
+
+---
 
 ## 🧰 Technologies Used
 
 - **Backend Framework:** Laravel 10.x (PHP)
 - **Frontend:** Blade templates, HTML5, CSS3, Bootstrap
 - **Database:** PostgreSQL or MySQL
-- **Auth:** Laravel Auth / Laravel Breeze
-- **Dev Tools:** Tinker, Artisan CLI, Laravel Debugbar
+- **Authentication:** Laravel Auth / Laravel Breeze
+- **Developer Tools:** Artisan CLI, Laravel Debugbar, Laravel Tinker
 
 ---
 
@@ -64,4 +65,5 @@ php artisan migrate
 
 # 6. Launch the dev server
 php artisan serve
+
 
