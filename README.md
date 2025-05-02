@@ -65,6 +65,7 @@ php artisan migrate
 
 # 6. Launch the dev server
 php artisan serve
+```
 
 ---
 
