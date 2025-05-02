@@ -66,5 +66,81 @@ php artisan migrate
 # 6. Launch the dev server
 php artisan serve
 
+---
+
+## ▶️ Usage
+
+After setup:
+
+- Visit `http://127.0.0.1:8000`
+- Register or seed an admin account
+- Use the admin dashboard to manage users, research structures, and applications
+
+---
+
+## 🗂️ Project Structure (simplified)
+
+├── app/ │ ├── Http/Controllers/ │ ├── Models/ ├── resources/ │ └── views/ ├── routes/ │ └── web.php ├── database/ │ └── migrations/ ├── public/ ├── .env.example └── README.md
+
+---
+
+## 🖼️ Screenshots
+
+### 📘 Diagramme de cas d'utilisation
+![Diagramme de cas d'utilisation](screenshots/Diagramme_cas_d'utilisation.png)
+
+### 📌 Étapes pour l'étudiant admis
+![Étapes étudiant](screenshots/Etapes_étudiant.png)
+
+### 👨‍🎓 Liste des étudiants admis
+![Étudiants admis](screenshots/liste_des_étudiants_admis.png)
+
+### 👨‍🏫 Liste des professeurs
+![Professeurs](screenshots/liste_professeurs.png)
+
+### 📄 Liste des sujets
+![Sujets](screenshots/liste_sujets.png)
+
+### 🎯 Mission du CED (volets 1 & 2)
+![Mission CED](screenshots/mission_ced.png)
+
+### 🏢 Organigramme du CED
+![Organigramme](screenshots/organisme_ced.png)
+
+### 🧪 Liste des structures de recherche
+![Structures de recherche](screenshots/liste_structure_des_recherches.png)
+
+---
+
+## 👩‍💻 Author
+
+**Nissrine Elabjani**  
+2nd Year Engineering Student – Embedded Systems  
+Université Paris Cité – Denis Diderot Engineering School  
+📍 Paris, France  
+🔗 [LinkedIn](https://linkedin.com/in/nissrine-elabjani-296598291)  
+📧 nissrine.elabjani@gmail.com
+
+---
+
+## 👩‍💻 Author
+
+**Nissrine Elabjani**  
+2nd Year Engineering Student – Embedded Systems  
+Université Paris Cité – Denis Diderot Engineering School  
+📍 Paris, France  
+🔗 [LinkedIn](https://linkedin.com/in/nissrine-elabjani-296598291)  
+📧 nissrine.elabjani@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this code with attribution.
+
+
+
+
 
 
